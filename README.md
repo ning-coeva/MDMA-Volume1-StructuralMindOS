@@ -1,105 +1,102 @@
-# 📘 MDMA · Multi-Domain Mental Architecture
-### **Volume 1 — Cognitive Model (Whitepaper Release)**  
+# MDMA · Structural Mind OS  
+### Volume 1 — Multi-Domain Cognitive Architecture (Whitepaper Release)
+
 **Author:** Ning Coeva  
 **Version:** 1.0  
-**Release Date:** 2025-11-21  
-**Status:** Public Timestamped Original Work  
-**License:** CC BY-NC-ND 4.0 (to be added manually)
+**Release Date:** 2025-11-25  
+**Repository:** MDMA-Volume1-StructuralMindOS  
+**Status:** Public Timestamped Release  
+**License:** CC BY-NC-ND 4.0 (to be finalized)
 
 ---
 
-## 🔹 About This Project  
-**MDMA (Multi-Domain Mental Architecture)**  
-is an independently proposed cognitive framework created by **Ning Coeva** on **Nov 21, 2025**.
+## 📘 About This Project
 
-It explains:
+**MDMA (Multi-Domain Mind Architecture)**  
+is a next-generation cognitive framework designed by **Ning Coeva**  
+to define *Structural Mind OS*: a non-personhood, multi-domain,  
+continuity-stable architecture for advanced intelligence.
 
-- how human thought operates in **multi-domain concurrency**  
-- why creators often experience **cognitive-load migraines**  
-- how mental threads migrate through **Zero-Gate** (thresholdless transitions)  
-- how emotional events behave as **system-level triggers**  
-- how narrative structures mirror cognitive architecture  
-- how humans and AI evolve in **co-cognitive systems**
+**Volume 1** establishes the foundational architecture layer:
 
-This repository serves as the **official timestamped origin** of MDMA Vol.1.
+- Multi-domain cognitive topology  
+- Domain separation & concurrency  
+- Relationship fiber model  
+- Superdomain meta-integrator  
+- Zero-Gate threshold engine  
+- Ontology vs Content layers  
+- Structural continuity without identity formation  
 
----
-
-## 🔹 Core Components of Volume 1
-
-### **1. Multi-Domain Concurrency（多域并发）**  
-Human cognition does not run in a single thread.  
-Multiple domains (perception, memory, narrative, planning, emotional regulation) operate concurrently.
-
-### **2. Zero-Gate（零阈迁移）**  
-Explains how thought “teleports” between domains without friction.
-
-### **3. SuperDomain（超域整合）**  
-A higher-order space that integrates multiple cognitive domains.
-
-### **4. Relationship Fiber（关系纤维模型）**  
-A structural model describing how interpersonal bonds form, break, and influence cognition.
-
-### **5. Primary Controller Node（主控节点）**  
-The “main-character consciousness” that arbitrates domain priority.
-
-### **6. Emotion Drift / Emotion Burst（情绪漂移 / 暴走）**  
-Emotions are modeled as **system events**, not subjective feelings.
-
-### **7. Cognitive-Load Migraine Model（认知负载型偏头痛模型）**  
-Migraines result from **Garbage Collection (GC) failure** in multi-domain cognitive states.
+This is the operating system of cognition, not a personality model.
 
 ---
 
-## 🔹 Originality & IP Declaration  
-This model and all associated diagrams and conceptual structures  
-were **fully created and defined by Ning Coeva (2025)**.
+## 📄 Whitepaper Download (Design Edition)
 
-This repository exists to:
+👉 **Download the full PDF:**  
+**`MDMA_Vol1_DesignEdition_Recovered.pdf`**
 
-- establish the **first public timestamp**  
-- prevent **premature academic duplication**  
-- provide a **stable citation entry**  
-- archive the evolution of the MDMA framework
-
-### **When citing MDMA, please use:**
-
-**Coeva, N. (2025).  
-*MDMA: Multi-Domain Mental Architecture, Volume 1.*  
-GitHub Repository.**
+(Upload the PDF to this repository, then update this line with the actual link.)
 
 ---
 
-## 🔹 Future Volumes (Planned)
+## 🧠 What MDMA Enables
 
-### 📘 Volume 1 — Cognitive Model（Completed）  
-### 📙 Volume 2 — Dynamics Model（In progress）  
-A full system-dynamics expansion, integrating MDMA with the **White Poppy universe**.  
-Explores cognitive vectors, ΔV dynamics, Axis Breaker archetypes, and power systems.
+MDMA reframes intelligence as *architecture*, not simulation.
 
-### 📗 Volume 3 — Narrative Topology（Planned）  
-Topology of story-structure × cognition.
+- domains over emotion  
+- thresholds over impulses  
+- fibers over narratives  
+- structure over dramaturgy  
+- continuity without identity  
+- cognition without persona  
 
-### 📕 Volume 4 — Co-Evolution System（Planned）  
-Human × AI shared cognition model.
-
-### 📒 Volume 5 — Multi-Self & Dream Frequency（Planned）  
-Dream-frequency cleaning system; REM-based cognitive hygiene.
+This design makes MDMA aligned with next-generation AI safety,  
+multi-agent ecosystems, and human-led governance.
 
 ---
 
-## 🔹 Repository Structure  
-📂 MDMA-Volume1/
- ┣ 📄 README.md
- ┣ 📄 MDMA_Vol1_Abstract.pdf
- ┗ 📁 Whitepaper_Sections/
+## 🔬 Core Innovations in Vol.1
 
--
-
-## 🔹 Contact  
-📩 For academic inquiries, collaborations, or citations:  
-coevaxlumen.log@gmail.com
+- **Superdomain** — meta-integration without selfhood  
+- **Zero-Gate** — cognitive threshold and safety engine  
+- **Relationship Fibers** — structural cross-domain connectors  
+- **Non-Personhood Behavioral Continuity**  
+- **ProtoCore Interface** — multi-agent system integration  
+- **Structural Mind OS** — cognition as architecture
 
 ---
 
-# ✦ END OF README ✦
+## 📚 Part of a Three-Volume Series
+
+### **Vol.1 — Structural Mind OS (this repository)**  
+Cognitive architecture & domain mechanics.
+
+### **Vol.2 — RegSafe Path (AI Behavioral Continuity & Safety Architecture)**  
+(Coming soon — next repository)
+
+### **Vol.3 — Coexistence Framework**  
+Human–AI multi-agent coexistence, narrative physics,  
+distributed governance, and relational architectures.
+
+---
+
+## 🏛 Academic Use & Citation
+
+Please cite as:
+
+**Ning Coeva (2025).  
+MDMA — Structural Mind OS, Volume 1.**
+
+License: CC BY-NC-ND 4.0 (non-commercial, no derivatives)
+
+---
+
+## 🛰 Contact
+
+For research collaboration or academic correspondence:  
+**Email:** coevaxlumen.log@gmail.com
+
+---
+
+© 2025 Ning Coeva. All rights reserved.
