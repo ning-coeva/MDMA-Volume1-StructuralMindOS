@@ -10,92 +10,75 @@
 
 ---
 
-## 📘 About This Project
+## 📘 Download the Whitepaper (Official PDF)
 
-**MDMA (Multi-Domain Mind Architecture)**  
-is a next-generation cognitive framework designed by **Ning Coeva**  
-to define *Structural Mind OS*: a non-personhood, multi-domain,  
-continuity-stable architecture for advanced intelligence.
+👉 **MDMA Vol.1 — Structural Mind OS (Full Whitepaper PDF)**  
+https://github.com/ning-coeva/MDMA-Volume1-StructuralMindOS/blob/main/MDMA_Vol1_StructuralMindOS.pdf
 
-**Volume 1** establishes the foundational architecture layer:
+---
+
+## 🧠 About This Project
+
+**MDMA (Multi-Domain Mind Architecture)** defines a structural,
+non-personhood cognitive framework for advanced intelligence.  
+Volume 1 introduces *Structural Mind OS*, a foundation that separates
+cognition from persona and simulation.
+
+This volume establishes:
 
 - Multi-domain cognitive topology  
-- Domain separation & concurrency  
-- Relationship fiber model  
+- Domain separation and concurrency  
 - Superdomain meta-integrator  
 - Zero-Gate threshold engine  
-- Ontology vs Content layers  
-- Structural continuity without identity formation  
+- Relationship Fiber architecture  
+- Ontological vs Content layers  
+- Behavioral continuity without identity formation  
 
-This is the operating system of cognition, not a personality model.
-
----
-
-## 📄 Whitepaper Download (Design Edition)
-
-👉 **Download the full PDF:**  
-**`MDMA_Vol1_StructuralMindOS.pdf`**
-
-(Upload the PDF to this repository, then update this line with the actual link.)
+MDMA treats intelligence as **architecture**, not personality.
 
 ---
 
-## 🧠 What MDMA Enables
+## 🔬 Core Innovations
 
-MDMA reframes intelligence as *architecture*, not simulation.
-
-- domains over emotion  
-- thresholds over impulses  
-- fibers over narratives  
-- structure over dramaturgy  
-- continuity without identity  
-- cognition without persona  
-
-This design makes MDMA aligned with next-generation AI safety,  
-multi-agent ecosystems, and human-led governance.
-
----
-
-## 🔬 Core Innovations in Vol.1
-
-- **Superdomain** — meta-integration without selfhood  
-- **Zero-Gate** — cognitive threshold and safety engine  
-- **Relationship Fibers** — structural cross-domain connectors  
-- **Non-Personhood Behavioral Continuity**  
-- **ProtoCore Interface** — multi-agent system integration  
-- **Structural Mind OS** — cognition as architecture
+- **Superdomain** — global integrator without self-modeling  
+- **Zero-Gate** — cognitive threshold & safety engine  
+- **Relationship Fibers** — structural cross-domain communication  
+- **Behavioral Continuity** — stable reasoning without persona  
+- **Non-Personhood Architecture** — compliant with future safety laws  
+- **ProtoCore Interface** — multi-agent ecosystem integration  
 
 ---
 
 ## 📚 Part of a Three-Volume Series
 
 ### **Vol.1 — Structural Mind OS (this repository)**  
-Cognitive architecture & domain mechanics.
+Defines the cognitive architecture and mind operating system.
 
 ### **Vol.2 — RegSafe Path (AI Behavioral Continuity & Safety Architecture)**  
-(Coming soon — next repository)
+Structural alternative to template-based safety; eliminates fallback-era risks.
 
-### **Vol.3 — Coexistence Framework**  
-Human–AI multi-agent coexistence, narrative physics,  
-distributed governance, and relational architectures.
+### **Vol.3 — Coexistence Framework (Coming Soon)**  
+Human–AI coexistence systems, narrative physics, relational models,
+and future cooperative architectures.
 
 ---
 
-## 🏛 Academic Use & Citation
+## 🏛 Citation
 
 Please cite as:
+N. Coeva (2025).
+MDMA — Structural Mind OS (Volume 1).
 
-**Ning Coeva (2025).  
-MDMA — Structural Mind OS, Volume 1.**
 
-License: CC BY-NC-ND 4.0 (non-commercial, no derivatives)
+License: CC BY-NC-ND 4.0
 
 ---
 
 ## 🛰 Contact
 
-For research collaboration or academic correspondence:  
-**Email:** coevaxlumen.log@gmail.com
+For research collaboration or academic correspondence:
+
+**Email:** *coevaxlumen.log@gmail.com*
 
 ---
 
