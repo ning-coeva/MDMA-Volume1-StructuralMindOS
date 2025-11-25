@@ -70,7 +70,27 @@ N. Coeva (2025).
 MDMA — Structural Mind OS (Volume 1).
 
 
-License: CC BY-NC-ND 4.0
+## 🏛 License
+
+This whitepaper is released under the  
+**Creative Commons Attribution–NonCommercial–NoDerivatives 4.0 International (CC BY-NC-ND 4.0)** license.
+
+Under this license:
+
+- ✔ You may **share** the PDF for non-commercial purposes  
+- ✔ You must provide proper **attribution** to the author (Ning Coeva)  
+- ✔ You may **not** modify, transform, or build derivative works  
+- ✔ You may **not** use the work for commercial purposes  
+- ✔ No additional legal or technological restrictions may be applied  
+
+This license preserves academic use, citation, and public research access  
+while protecting the structural integrity of the MDMA framework.
+
+**Full legal code:**  
+https://creativecommons.org/licenses/by-nc-nd/4.0/legalcode
+
+**Citation:**  
+Ning Coeva (2025). *MDMA — Structural Mind OS (Volume 1).*
 
 ---
 
