@@ -34,7 +34,7 @@ This is the operating system of cognition, not a personality model.
 ## 📄 Whitepaper Download (Design Edition)
 
 👉 **Download the full PDF:**  
-**`MDMA_Vol1_DesignEdition_Recovered.pdf`**
+**`MDMA_Vol1_StructuralMindOS.pdf`**
 
 (Upload the PDF to this repository, then update this line with the actual link.)
 
